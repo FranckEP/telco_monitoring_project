@@ -1,2 +1,2 @@
-# telco_monitoring_project
+# Telco Monitoring Project
 Simulated performance analysis in a telecom environment, leveraging Python, SQL, and Looker Studio to detect anomalies and improve response times.
